@@ -1,1 +1,1 @@
-"""swarmfetch baseline (single-responsibility pipeline)."""
+"""swarmfetch package (single-responsibility pipeline)."""
